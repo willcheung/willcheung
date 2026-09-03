@@ -1,6 +1,6 @@
 # Hi, I'm Will.
 
-I'm an AI platform and product executive, founder, and hands-on builder. 
+I'm an AI platform and product executive, founder, and hands-on builder. Check out my website at [Vibe Coding Dad](https://vibecodingdad.com/).
 
 ## What I'm building
 
