@@ -4,6 +4,7 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 ## What I'm building
 
+- [AI Hedge Fund Analyst](https://github.com/willcheung/ai-hedge-fund-analyst) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
 - [No AI Slop Writing Skill](https://github.com/willcheung/no-ai-slop-writing-skill) is a portable agent skill for drafting and editing without flattening the writer's voice.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
 - [FlowKits](https://github.com/willcheung/flowkits) is a collection of Python workflow kits built to live in git and be operated with an AI coding agent. [Browse the catalog](https://flowkits.ai/).
