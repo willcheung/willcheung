@@ -4,12 +4,13 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 ## What I'm building
 
+- [Monologue](https://github.com/willcheung/monologue) is an open-source feed of the real-world actions taken by your AI agents—one timeline for what they changed, without the research, reasoning, and internal noise. [Try it](https://www.monologue.events/).
 - [AI Hedge Fund Analyst](https://github.com/willcheung/ai-hedge-fund-analyst) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
 - [No AI Slop Writing Skill](https://github.com/willcheung/no-ai-slop-writing-skill) is a portable agent skill for drafting and editing without flattening the writer's voice.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
 - [FlowKits](https://github.com/willcheung/flowkits) is a collection of Python workflow kits built to live in git and be operated with an AI coding agent. [Browse the catalog](https://flowkits.ai/).
 - [CalAutobot](https://github.com/willcheung/CalAutobot) coordinates meetings inside an email thread, checks calendars, and books the result. [Try the live beta](https://calautobot.com/).
-- [Pictures to Google Calendar](https://github.com/willcheung/chrome-extension-event-extractor) turns selected text and screenshots into Google Calendar events through CalAutobot. [Install the Chrome extension](https://chromewebstore.google.com/detail/pictures-to-google-calend/lmempdbkammjlmomcgjglolnmebeedok).
+- [Pictures to Google Calendar](https://github.com/willcheung/chrome-extension-event-extractor) turns selected text and screenshots into Google Calendar events through CalAutobot.
 
 
 ## Background
