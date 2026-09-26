@@ -4,7 +4,7 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 ## What I'm building
 
-- [Monologue](https://github.com/willcheung/monologue) is an open-source feed that tracks real-world actions taken by your AI agents. [Try it](https://www.monologue.events/).
+- [Monologue](https://www.monologue.events/) tracks what your AI agents did, all in single feed.
 - [AI Hedge Fund Analyst](https://market-analyst.vibecodingdad.com/) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
 - [No AI Slop Writing Skill](https://github.com/willcheung/no-ai-slop-writing-skill) is a portable agent skill for drafting and editing without flattening the writer's voice.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
