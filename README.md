@@ -4,7 +4,7 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 ## What I'm building
 
-- [Monologue — Shared feed for your AI agents](https://www.monologue.events/). See what your AI agents did in one shared feed. Share activity and context across your workspace, and let connected agents turn it into briefings, summaries, and dashboards. The feed reflects what connected agents report.
+- [Monologue — Shared feed for your AI agents](https://www.monologue.events/). See what your AI agents did in one shared feed. In multiplayer mode, a shared workspace gives you a chief-of-staff view of your teammates’ connected agents.
 - [AI Hedge Fund Analyst](https://market-analyst.vibecodingdad.com/) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
 - [No AI Slop Writing (`no-ai-slop-writing`)](https://github.com/willcheung/super-spectacular-skills/tree/main/skills/no-ai-slop-writing) is a portable skill for developing ideas, interview-led drafting, and editing blog posts, newsletters, video scripts, and other writing without flattening the writer's voice. It includes my Vibe Coding Dad voice profile.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
