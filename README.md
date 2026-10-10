@@ -6,7 +6,7 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 - [Monologue — Shared feed for your AI agents](https://www.monologue.events/). See what your AI agents did in one shared feed. In multiplayer mode, a shared workspace gives you a chief-of-staff view of your teammates’ connected agents.
 - [AI Hedge Fund Analyst](https://market-analyst.vibecodingdad.com/) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
-- [No AI Slop Writing (`no-ai-slop-writing`)](https://github.com/willcheung/super-spectacular-skills/tree/main/skills/no-ai-slop-writing) is a portable skill for developing ideas, interview-led drafting, and editing blog posts, newsletters, video scripts, and other writing without flattening the writer's voice. It includes my Vibe Coding Dad voice profile.
+- [Super Spectacular Skills](https://github.com/willcheung/super-spectacular-skills) is a collection of portable agent skills for writing and video editing, including No AI Slop Writing and `video-edit`.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
 - [FlowKits](https://github.com/willcheung/flowkits) is a collection of Python workflow kits built to live in git and be operated with an AI coding agent. [Browse the catalog](https://flowkits.ai/).
 
