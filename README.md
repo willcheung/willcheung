@@ -4,14 +4,16 @@ I'm an AI platform and product executive, founder, and hands-on builder. Check o
 
 ## What I'm building
 
-- [Monologue](https://www.monologue.events/) tracks what your AI agents did, all in single feed.
+- [Monologue — Shared feed for your AI agents](https://www.monologue.events/). See what your AI agents did in one shared feed. In multiplayer mode, a shared workspace gives you a chief-of-staff view of your teammates’ connected agents.
 - [AI Hedge Fund Analyst](https://market-analyst.vibecodingdad.com/) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
-- [No AI Slop Writing Skill](https://github.com/willcheung/no-ai-slop-writing-skill) is a portable agent skill for drafting and editing without flattening the writer's voice.
+- [No AI Slop Writing (`no-ai-slop-writing`)](https://github.com/willcheung/super-spectacular-skills/tree/main/skills/no-ai-slop-writing) is a portable skill for developing ideas, interview-led drafting, and editing blog posts, newsletters, video scripts, and other writing without flattening the writer's voice. It includes my Vibe Coding Dad voice profile.
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
 - [FlowKits](https://github.com/willcheung/flowkits) is a collection of Python workflow kits built to live in git and be operated with an AI coding agent. [Browse the catalog](https://flowkits.ai/).
-- [CalAutobot](https://github.com/willcheung/CalAutobot) coordinates meetings inside an email thread, checks calendars, and books the result. [Try the live beta](https://calautobot.com/).
-- [Pictures to Google Calendar](https://github.com/willcheung/chrome-extension-event-extractor) turns selected text and screenshots into Google Calendar events through CalAutobot.
 
+## Retired projects
+
+- [CalAutobot](https://github.com/willcheung/CalAutobot) coordinated meetings inside an email thread, checked calendars, and booked the result. [Why I retired it](https://blog.vibecodingdad.com/p/what-meta-muse-means-for-builders).
+- [Pictures to Google Calendar](https://github.com/willcheung/chrome-extension-event-extractor) turned selected text and screenshots into Google Calendar events through CalAutobot.
 
 ## Background
 
