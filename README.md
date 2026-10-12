@@ -6,9 +6,9 @@ I'm a product leader, founder, and builder. Check out my website at [Vibe Coding
 
 - [Monologue — Shared feed for your AI agents](https://www.monologue.events/). See what your AI agents did in one shared feed. In multiplayer mode, a shared workspace gives you a chief-of-staff view of your teammates’ connected agents.
 - [AI Hedge Fund Analyst](https://market-analyst.vibecodingdad.com/) researches AI/tech stocks, earnings, macro trends, and builds a conviction list that is consistently refreshed with latest data.
-- [Super Spectacular Skills](https://github.com/willcheung/super-spectacular-skills) is a collection of portable agent skills for writing, video editing, and compounding wiki.
+- [RoboLab: 3D Robotics Workshop](https://github.com/willcheung/3d-robotics-hack) is an open-source robotics workshop for teens. Write real Python or Java to control a 3D rescue searchlight and learn how motors, servos, and sensors work. [Play RoboLab](https://robolab.vibecodingdad.com/).
 - [n8ntocode](https://github.com/willcheung/n8ntocode) turns n8n workflow exports into editable Python projects, with visualization, syntax checks, and context for AI coding agents. [Try it](https://www.n8ntocode.com/).
-- [FlowKits](https://github.com/willcheung/flowkits) is a collection of Python workflow kits built to live in git and be operated with an AI coding agent. [Browse the catalog](https://flowkits.ai/).
+- [Super Spectacular Skills](https://github.com/willcheung/super-spectacular-skills) is a collection of open-source skills for AI agents: writing, video editing, retirement planning, and research that carries across sessions.
 
 ## Retired projects
 
